@@ -1,0 +1,2 @@
+[PT] Programa simples, em Javascript, que identifica se os números são primos, mostra quais são os 100 primeiros números primos e por fim mostra a soma de todos de todos eles.
+[ENG] Simple program, in Javascript, that identifies if the numbers are prime, shows which are the first 100 prime numbers and finally shows the sum of all of them.
